@@ -210,7 +210,7 @@ public class Generator_GUI {
 			numbersInt = 0b10;
 		}
 		if(alphabetCheckBox.isSelected()){
-			symbolsInt = 0b100;
+			alphabetInt = 0b100;
 		}
 		if(leetCheckBox.isSelected()){
 			leetInt = 0b1000;
